@@ -1,0 +1,5 @@
+{
+  "name": "Rich Content Editor",
+  "description": "A full-featured visual editor based on Tiptap with support for tables, images, YouTube embeds, and Word pasting.",
+  "requestFramePermissions": []
+}
